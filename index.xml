@@ -6,7 +6,7 @@
     <description>Recent content on Carlo Cavicchia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2020 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>about me</title>
       <link>/about-me/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
       
       <guid>/about-me/</guid>
       <description>current assistant professor of statistics
@@ -27,7 +27,7 @@ Department of Law and Economics, UnitelmaSapienza University of Rome
     <item>
       <title>contact</title>
       <link>/contact/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
       
       <guid>/contact/</guid>
       <description>email cavicchia@ese.eur.nl
@@ -36,9 +36,23 @@ Department of Law and Economics, UnitelmaSapienza University of Rome
     </item>
     
     <item>
+      <title>projects</title>
+      <link>/projects/</link>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Data-related problems sparking my curiosity are constant sources of fresh ideas for my research. I’m especially interested in developing novel data analysis approaches starting from application-motivated problems. My current work is focused on latent variable and mixture models in application to high-dimensional and complex data.
+  ongoing projects
+  events
+  codes
+  teaching material
+  </description>
+    </item>
+    
+    <item>
       <title>publications</title>
       <link>/publications/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
       
       <guid>/publications/</guid>
       <description>journal articles   Cavicchia, C., Sarnacchiaro, P. and Vichi, M. (2020)
@@ -49,15 +63,6 @@ Statistical Model-based Composite Indicators for tracking coherent policy conclu
 Social Indicators Research, doi
    conference papers   Cavicchia, C., Vichi, M. and Zaccaria, G. (2019)
 Dimensionality reduction via hierarchical factorial structure.</description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/</guid>
-      <description></description>
     </item>
     
   </channel>

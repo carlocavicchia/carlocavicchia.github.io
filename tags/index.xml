@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Carlo Cavicchia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2020 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,45 +14,45 @@
     <item>
       <title>contact</title>
       <link>/tags/contact/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
       
       <guid>/tags/contact/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>me</title>
-      <link>/tags/me/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/me/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>publications</title>
-      <link>/tags/publications/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>developments</title>
       <link>/tags/developments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
       
       <guid>/tags/developments/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>me</title>
+      <link>/tags/me/</link>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>projects</title>
       <link>/tags/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
       
       <guid>/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publications</title>
+      <link>/tags/publications/</link>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/publications/</guid>
       <description></description>
     </item>
     
