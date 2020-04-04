@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resume on Carlo Cavicchia</title>
+    <link>/categories/resume/</link>
+    <description>Recent content in resume on Carlo Cavicchia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/categories/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about me</title>
+      <link>/about-me/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/about-me/</guid>
+      <description>current assistant professor of statistics
+Econometric Institute, Erasmus School of Economics, Erasmus University Rotterdam
+past research fellow of statistics
+Department of Law and Economics, UnitelmaSapienza University of Rome
+ education  ph.d. in methodological statistics at La Sapienza University of Rome (2020) msc in statistics and decision sciences at La Sapienza University of Rome (2016) bsc in statistics at La Sapienza University of Rome (2013)  grants  research grant for junior researcher &amp;ldquo;Avvio alla ricerca&amp;rdquo; (2017) award in Italian Statistical Society (SIS) competition: best report (2017)  academic services  session organizer and chair of the 50th edition of the Scientific Meeting of the Italian Statistical Society reviewer for Journal of Statistical Computation and Simulation reviewer for Advances in Data Analysis and Classification   extra  addicted to ASD Valcanneto Fustal and ice-cream  </description>
+    </item>
+    
+  </channel>
+</rss>
