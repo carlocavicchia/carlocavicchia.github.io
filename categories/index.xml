@@ -6,62 +6,169 @@
     <description>Recent content in Categories on Carlo Cavicchia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 04 Apr 2020 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>about</title>
-      <link>/categories/about/</link>
-      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      <title>address</title>
+      <link>/categories/address/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/about/</guid>
+      <guid>/categories/address/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>articles</title>
+      <link>/categories/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>class</title>
+      <link>/categories/class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codes</title>
+      <link>/categories/codes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/codes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conferences</title>
+      <link>/categories/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/conferences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contact</title>
       <link>/categories/contact/</link>
-      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/contact/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>course</title>
+      <link>/categories/course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>developments</title>
       <link>/categories/developments/</link>
-      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/developments/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>email</title>
+      <link>/categories/email/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/email/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>/categories/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interests</title>
+      <link>/categories/interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/interests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>material</title>
+      <link>/categories/material/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>me</title>
       <link>/categories/me/</link>
-      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/me/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>papers</title>
+      <link>/categories/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>projects</title>
       <link>/categories/projects/</link>
-      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/projects/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>publications</title>
+      <link>/categories/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>resume</title>
       <link>/categories/resume/</link>
-      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>/categories/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/teaching/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>articles on Carlo Cavicchia</title>
+    <link>/categories/articles/</link>
+    <description>Recent content in articles on Carlo Cavicchia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ongoing projects</title>
+      <link>/ongoing_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ongoing_projects/</guid>
+      <description>my current researches are:
+  Cavicchia, C. and Vichi, M.
+Second-Order Disjoint Exploratory Factor Analysis
+Hierarchical models are often considered to measure latent concepts defining nested set of manifest variables. Therefore, by supposing a hierarchical relationship among manifest variables, the general latent concept can be represented by a tree-structure where each internal node represents a specific level (order) of abstraction for the latent concept measured. In this paper, we propose a new latent factor model called Second-order Disjoint Exploratory Factor Analysis in order to model an unknown hierarchical structure of the manifest variables with two orders.</description>
+    </item>
+    
+    <item>
+      <title>publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>journal articles   Cavicchia, C., Sarnacchiaro, P. and Vichi, M. (2020)
+A composite indicator for the waste management in the EU via Hierarchical Disjoint Non-Negative Factor Analysis.
+Socio-Economic Planning Sciences, doi
+  Cavicchia, C., and Vichi, M. (2020)
+Statistical Model-based Composite Indicators for tracking coherent policy conclusions.
+Social Indicators Research, doi
+   conference papers   Cavicchia, C., Vichi, M. and Zaccaria, G. (2019)
+Dimensionality reduction via hierarchical factorial structure.</description>
+    </item>
+    
+  </channel>
+</rss>
