@@ -68,23 +68,23 @@
   </url>
   
   <url>
-    <loc>/tags/codes/</loc>
+    <loc>/tags/developments/</loc>
   </url>
   
   <url>
-    <loc>/categories/codes/</loc>
+    <loc>/categories/developments/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/projects/</loc>
   </url>
   
   <url>
     <loc>/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/stats/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/stats/</loc>
   </url>
   
 </urlset>

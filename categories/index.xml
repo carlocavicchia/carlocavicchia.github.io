@@ -48,20 +48,20 @@
     </item>
     
     <item>
-      <title>codes</title>
-      <link>/categories/codes/</link>
+      <title>developments</title>
+      <link>/categories/developments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/codes/</guid>
+      <guid>/categories/developments/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>stats</title>
-      <link>/categories/stats/</link>
+      <title>projects</title>
+      <link>/categories/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/stats/</guid>
+      <guid>/categories/projects/</guid>
       <description></description>
     </item>
     
