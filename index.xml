@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlo Cavicchia</title>
+    <link>/</link>
+    <description>Recent content on Carlo Cavicchia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 Apr 2020 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about me</title>
+      <link>/about-me/</link>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      
+      <guid>/about-me/</guid>
+      <description>current assistant professor of statistics
+Econometric Institute, Erasmus School of Economics, Erasmus University Rotterdam
+past research fellow of statistics
+Department of Law and Economics, UnitelmaSapienza University of Rome
+ education  ph.d. in methodological statistics at La Sapienza University of Rome (2020) msc in statistics and decision sciences at La Sapienza University of Rome (2016) bsc in statistics at La Sapienza University of Rome (2013)  grants  research grant for junior researcher &amp;ldquo;Avvio alla ricerca&amp;rdquo; (2017) award in Italian Statistical Society (SIS) competition: best report (2017)  academic services  session organizer and chair of the 50th edition of the Scientific Meeting of the Italian Statistical Society reviewer for Journal of Statistical Computation and Simulation reviewer for Advances in Data Analysis and Classification   extra  addicted to ASD Valcanneto Fustal and ice-cream  </description>
+    </item>
+    
+    <item>
+      <title>codes</title>
+      <link>/codes/</link>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      
+      <guid>/codes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>/contact/</link>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>email cavicchia@ese.eur.nl
+ personal page \
+ address Room \ , P.O. Box 1738, 3000 DR Rotterdam, The Netherlands</description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>/events/</link>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      
+      <guid>/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ongoing projects</title>
+      <link>/ongoing_projects/</link>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      
+      <guid>/ongoing_projects/</guid>
+      <description>My current research is focused on&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>/projects/</link>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>I am a statistician and my research is focused on the methodological and computational aspects of data analysis. The best feeling is when I can use my knowledge to solve pratical and real problems. I am currently working on latent variable models, unsupervised classification and model-based composite indicators.
+  ongoing projects
+  events
+  codes
+  teaching material
+  </description>
+    </item>
+    
+    <item>
+      <title>publications</title>
+      <link>/publications/</link>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>journal articles   Cavicchia, C., Sarnacchiaro, P. and Vichi, M. (2020)
+A composite indicator for the waste management in the EU via Hierarchical Disjoint Non-Negative Factor Analysis.
+Socio-Economic Planning Sciences, doi
+  Cavicchia, C., and Vichi, M. (2020)
+Statistical Model-based Composite Indicators for tracking coherent policy conclusions.
+Social Indicators Research, doi
+   conference papers   Cavicchia, C., Vichi, M. and Zaccaria, G. (2019)
+Dimensionality reduction via hierarchical factorial structure.</description>
+    </item>
+    
+    <item>
+      <title>teaching material</title>
+      <link>/teaching_material/</link>
+      <pubDate>Sat, 04 Apr 2020 22:55:05 -0400</pubDate>
+      
+      <guid>/teaching_material/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
