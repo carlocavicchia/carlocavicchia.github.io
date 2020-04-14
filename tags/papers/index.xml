@@ -17,9 +17,10 @@
       
       <guid>/ongoing_projects/</guid>
       <description>my current researches are:
-  Cavicchia, C., Vichi, M. and Zaccaria, G.
-The ultrametric correlation matrix for modelling hierarchical latent concepts
-the aim of the paper is to reconstruct an observed data correlation matrix of manifest variables through an ultrametric correlation matrix which is able to pinpoint the hierarchical nature of the phenomenon under study; we introduce a novel model which detects consistent latent concepts and their relationships starting from the observed correlation matrix.</description>
+  Cavicchia, C. and Vichi, M.
+Second-Order Disjoint Exploratory Factor Analysis
+a new latent factor model called Second-order Disjoint Exploratory Factor Analysis in order to model an unknown hierarchical structure of the manifest variables with two orders. It is an exploratory second-order factor analysis, which is nested and estimated simultaneously by maximum likelihood method via a cyclic block coordinate descent algorithm.
+  Cavicchia, C., Vichi, M.</description>
     </item>
     
     <item>
@@ -28,14 +29,14 @@ the aim of the paper is to reconstruct an observed data correlation matrix of ma
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>journal articles   Cavicchia, C., Sarnacchiaro, P. and Vichi, M. (2020)
-A composite indicator for the waste management in the EU via Hierarchical Disjoint Non-Negative Factor Analysis.
-Socio-Economic Planning Sciences, doi
-  Cavicchia, C., and Vichi, M. (2020)
-Statistical Model-based Composite Indicators for tracking coherent policy conclusions.
-Social Indicators Research, doi
+      <description>journal articles   Cavicchia, C., Vichi, M. and Zaccaria, G. (2020)
+The ultrametric correlation matrix for modelling hierarchical latent concepts
+Advances in Data Analysis and Classification, In press
   Cavicchia, C., Vichi, M. and Zaccaria, G. (2020)
-Exploring Hierarchical Concepts: Theoretical and Application Comparisons.</description>
+Exploring Hierarchical Concepts: Theoretical and Application Comparisons.
+Advanced Studies in Behaviormetrics and Data Science, In press
+  Cavicchia, C., Sarnacchiaro, P. and Vichi, M. (2020)
+A composite indicator for the waste management in the EU via Hierarchical Disjoint Non-Negative Factor Analysis.</description>
     </item>
     
   </channel>
