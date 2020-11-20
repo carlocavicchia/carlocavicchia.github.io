@@ -101,6 +101,15 @@
     </item>
     
     <item>
+      <title>info</title>
+      <link>/categories/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>interests</title>
       <link>/categories/interests/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -115,6 +124,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>materials</title>
+      <link>/categories/materials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/materials/</guid>
       <description></description>
     </item>
     
@@ -160,6 +178,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seminars</title>
+      <link>/categories/seminars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/seminars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>/categories/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/talks/</guid>
       <description></description>
     </item>
     

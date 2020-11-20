@@ -54,6 +54,16 @@ Tel. +31 010 4081253</description>
     </item>
     
     <item>
+      <title>materials and info</title>
+      <link>/materials-and-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/materials-and-info/</guid>
+      <description>I am a statistician and my research is focused on the methodological and computational aspects of data analysis. The best feeling is when I can use my knowledge to solve practical and real problems. I am currently working on latent variable models, unsupervised classification and model-based composite indicators.
+ongoing projects seminars and talks events teaching material </description>
+    </item>
+    
+    <item>
       <title>ongoing projects</title>
       <link>/ongoing_projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -64,16 +74,6 @@ Tel. +31 010 4081253</description>
 Second-Order Disjoint Exploratory Factor Analysis
 a new latent factor model called Second-order Disjoint Exploratory Factor Analysis in order to model an unknown hierarchical structure of the manifest variables with two orders. It is an exploratory second-order factor analysis, which is nested and estimated simultaneously by maximum likelihood method via a cyclic block coordinate descent algorithm. (Submitted)
   Cavicchia, C.</description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>I am a statistician and my research is focused on the methodological and computational aspects of data analysis. The best feeling is when I can use my knowledge to solve practical and real problems. I am currently working on latent variable models, unsupervised classification and model-based composite indicators.
-ongoing projects events teaching material </description>
     </item>
     
     <item>
@@ -93,12 +93,21 @@ Statistical Model-based Composite Indicators for tracking coherent policy conclu
     </item>
     
     <item>
+      <title>seminars and talks</title>
+      <link>/talks_and_seminars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talks_and_seminars/</guid>
+      <description>invited seminar  Hierarchical Disjoint Nonnegative Factor Analysis - EconJobMarket 2019 (Erasmus University Rotterdam - Rotterdam, The Netherlands)   invited talks  A composite indicator via hierarchical disjoint factor analysis for measuring the Italian football teams&amp;rsquo; performances - Scientific Conference on Statistics for Healt and Well-Being (ASA) (2019, Brescia, Italy) Dimensionality Reduction via Hierarchical Factorial Structure - 12nd Scientific Meeting of Classification and Data Analysis Group (CLADAG) (2019 - Cassino, Italy) The systemic view of the SDGs indicators through a statistical model-based approach: an application on Eu countries - 49th Scientific meeting of the Italian Statistical Society (SIS) (2018 - Palermo, Italy) Workshop &amp;ldquo;Selection and Synthesis of Indicators for Sustainable Development Goals: Methodologies and Applications&amp;rdquo;&amp;rdquo; (2017 - Rome, Italy)   contributed talks and/or co-authorships  A parsimonious parameterization of a nonnegative correlation matrix - Workshop on Models and Learning for Clustering and Classification (2020 - Catania, Italy - Virtual) Model-based hierarchical parsimonious clustering and dimensionality reduction - 16th Conference of the Internation Federation of Classification Societies (IFCS) (2019 - Thessaloniki, Greece - Co-author) Hierarchical Disjoint Non-Negative Factor Analysis: environment and waste management in the EU - Innovation and Society (IES) (2019 - Rome, Italy) A new hierarchical model-based composite indicator on climate change - Innovation and Society (IES) Statistical Evaluation Systems at 360◦: Techniques,Technologies and new Frontiers (2019 - Rome, Italy - Co-author) Hierarchical Means Clustering - VI Giornata del Dottorato &amp;ldquo;Scuola di Scienze Statistiche&amp;rdquo; (2019 - Rome, Italy) Hierarchical Disjoint Principal Component Analysis - European Conference on Data Analysis (ECDA) (2019, Bayreuth, Germany - Co-author) Model-based double hierarchical parsimonious clustering - 4th International Workshop on Model-Based Clustering and Classification (2018 - Catania, Italy - Co-author) Statistical model-based composite indicators - V Giornata del Dottorato &amp;ldquo;Scuola di Scienze Statistiche&amp;rdquo; (2018 - Rome, Italy) Model-Based Synthesis for SDGs Indicators Annual meeting AIQUAV (2017 - Florence, Italy) Statistic models and methods for the construction of composite indicators of high-dimensional multivariate phenomena - IV Giornata del Dottorato &amp;ldquo;Scuola di Scienze Statistiche&amp;rdquo; (2017 - Rome, Italy - Poster)  </description>
+    </item>
+    
+    <item>
       <title>teaching material</title>
       <link>/teaching_material/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/teaching_material/</guid>
-      <description>courses and material  this year I have supervised bsc theses at Erasmus School of Economics on the following papers:  Vichi and Kiers (2001) Bluszcz (2016)      the last two years I taught pratical classes during the Statistics for the Master of Science in Development Economics and International Cooperation at Torvergata University of Rome  material: one; two; three      this year I taught pratical classes during the Statistics course for bsc students at LUISS University of Rome  material: one; two; three; four      this year I did SAS labs for the Business Statistics course for bsc students at Torvergata University of Rome  material: one; two; three; four      last year I taught the Preparatory Course in Statistics for the msc courses in European Economy and Business Law at Torvergata University of Rome  material: one; two; three; four; five    </description>
+      <description>courses and material  I am currently teaching the msc course &amp;ldquo;Seminar Data Science for Marketing Analytics&amp;rdquo; at Erasmus School of Economics    this year I have supervised bsc theses at Erasmus School of Economics on the following papers:  Vichi and Kiers (2001) Bluszcz (2016)      the last two years I taught pratical classes during the Statistics for the Master of Science in Development Economics and International Cooperation at Torvergata University of Rome  material: one; two; three      this year I taught pratical classes during the Statistics course for bsc students at LUISS University of Rome  material: one; two; three; four      this year I did SAS labs for the Business Statistics course for bsc students at Torvergata University of Rome  material: one; two; three; four      last year I taught the Preparatory Course in Statistics for the msc courses in European Economy and Business Law at Torvergata University of Rome  material: one; two; three; four; five    </description>
     </item>
     
   </channel>

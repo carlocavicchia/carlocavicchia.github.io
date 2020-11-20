@@ -107,6 +107,14 @@
   </url>
   
   <url>
+    <loc>/tags/info/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/info/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/interests/</loc>
   </url>
   
@@ -120,6 +128,18 @@
   
   <url>
     <loc>/categories/material/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/materials/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/materials/</loc>
+  </url>
+  
+  <url>
+    <loc>/materials-and-info/</loc>
   </url>
   
   <url>
@@ -151,10 +171,6 @@
   </url>
   
   <url>
-    <loc>/projects/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/publications/</loc>
   </url>
   
@@ -175,7 +191,27 @@
   </url>
   
   <url>
+    <loc>/tags/seminars/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/seminars/</loc>
+  </url>
+  
+  <url>
+    <loc>/talks_and_seminars/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/talks/</loc>
   </url>
   
   <url>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks_and_seminars on Carlo Cavicchia</title>
+    <link>/talks_and_seminars/</link>
+    <description>Recent content in Talks_and_seminars on Carlo Cavicchia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/talks_and_seminars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>teaching material</title>
+      <link>/talks_and_seminars/copyofindex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talks_and_seminars/copyofindex/</guid>
+      <description>courses and material  this year I have supervised bsc theses at Erasmus School of Economics on the following papers:  Vichi and Kiers (2001) Bluszcz (2016)      the last two years I taught pratical classes during the Statistics for the Master of Science in Development Economics and International Cooperation at Torvergata University of Rome  material: one; two; three      this year I taught pratical classes during the Statistics course for bsc students at LUISS University of Rome  material: one; two; three; four      this year I did SAS labs for the Business Statistics course for bsc students at Torvergata University of Rome  material: one; two; three; four      last year I taught the Preparatory Course in Statistics for the msc courses in European Economy and Business Law at Torvergata University of Rome  material: one; two; three; four; five    </description>
+    </item>
+    
+  </channel>
+</rss>
