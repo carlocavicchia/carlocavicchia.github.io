@@ -50,7 +50,7 @@ Tel. +31 010 4081253</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/events/</guid>
-      <description>future conferences  Innovation and Society 5.0: Statistical and Economic Models and Techniques for Quality Assessment (January 27-28, 2022) 24th Internation Conference on Computational Statistics (August 29-31, 2021) 63rd ISI World Statistics Congress 2021 (July 11-16, 2021) DSSV-ECDA 2021: Data Science Statistics and Visualisation and European Conference on Data Analysis (July 07-09, 2021) 50th Scientific Meeting of the Italian Statistical Society (June 21-25, 2021)   recent events  Workshop on Models and Learning for Clustering and Classification (September 2020) Data Science, Statistics &amp;amp; Visualization 2020 (July 29-31, 2020)  </description>
+      <description>future conferences  24th Internation Conference on Computational Statistics (August 23-26, 2022) IES 2022: Innovation and Society 5.0: Statistical and Economic Models and Techniques for Quality Assessment (January 27-28, 2022) CLADAG 2021: 13th Scientific Meeting Classification and Data Analysis Group (September 9-11, 2021) 63rd ISI World Statistics Congress 2021 (July 11-16, 2021) DSSV-ECDA 2021: Data Science Statistics and Visualisation and European Conference on Data Analysis (July 07-09, 2021) 50th Scientific Meeting of the Italian Statistical Society (June 21-25, 2021)   recent events  Workshop on Models and Learning for Clustering and Classification (September 2020) Data Science, Statistics &amp;amp; Visualization 2020 (July 29-31, 2020)  </description>
     </item>
     
     <item>
@@ -70,8 +70,10 @@ ongoing projects seminars and talks events teaching material </description>
       
       <guid>/ongoing_projects/</guid>
       <description>my current researches are:
-  Cavicchia, C. and Sarnacchiaro, P. A multi-group higher-order factor analysis for studying the gender-effect in Teacher Job Satisfaction
-teachers’ performances also depend on whether and how they are satisfied with their job. Therefore, Teacher Job Satisfaction must be considered as the driver of teachers’ accomplishments. To plan future policies and improve the overall teaching process, it is crucial to understand which factors mostly contribute to Teacher Job Satisfaction.</description>
+  Cavicchia, C., Vichi, M. and Zaccaria, G.
+Gaussian mixture model with an extended ultrametric covariance structure
+the maximum likelihood estimation of a Gaussian Mixture Model where the covariance structure is modeled according to an extended ultrametric covariance matrix, the model extends the concepts and definitions of ultrametric matrix in order to model generic covariance structure. (Submitted)
+  Cavicchia, C., Vichi, M. and Zaccaria, G.</description>
     </item>
     
     <item>
@@ -81,13 +83,13 @@ teachers’ performances also depend on whether and how they are satisfied with 
       
       <guid>/publications/</guid>
       <description>journal articles   Cavicchia, C. and Sarnacchiaro, P.
-A multi-group higher-order factor analysis for studying the gender-effect in Teacher Job Satisfaction.
+A multi-group higher-order factor analysis for studying the gender-effect in Teacher Job Satisfaction
 METRON, (2021)
   Cavicchia, C., Sarnacchiaro, P. and Vichi, M.
-A composite indicator for the waste management in the EU via Hierarchical Disjoint Non-Negative Factor Analysis.
-Socio-Economic Planning Sciences, 73, (2021) doi
+A composite indicator for the waste management in the EU via Hierarchical Disjoint Non-Negative Factor Analysis
+Socio-Economic Planning Sciences, 73, (2021)
   Cavicchia, C., Vichi, M. and Zaccaria, G.
-The ultrametric correlation matrix for modelling hierarchical latent concepts.</description>
+The ultrametric correlation matrix for modelling hierarchical latent concepts</description>
     </item>
     
     <item>
@@ -107,9 +109,8 @@ The ultrametric correlation matrix for modelling hierarchical latent concepts.</
       <guid>/teaching_material/</guid>
       <description>supervisions   I am currently supervising three msc theses on Data Science for Marketing Analytics at Erasmus School of Economics
   I am currently supervising three msc theses on Econometrics at Erasmus School of Economics
-  I am currently supervising six bsc theses at Erasmus School of Economics
-  last year I supervised eight bsc theses at Erasmus School of Economics on the following papers:
- Vichi and Kiers (2001) Bluszcz (2016)     courses and material   I am currently teaching the msc course &amp;ldquo;Seminar Data Science for Marketing Analytics&amp;rdquo; at Erasmus School of Economics</description>
+  I am currently supervising six bsc theses at Erasmus School of Economics on Adachi and Trendafilov (2018)
+  last year I supervised eight bsc theses at Erasmus School of Economics on Vichi and Kiers (2001) and Bluszcz (2016)</description>
     </item>
     
   </channel>
