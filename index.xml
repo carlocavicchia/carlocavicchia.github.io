@@ -20,7 +20,7 @@
 Econometric Institute, Erasmus School of Economics, Erasmus University Rotterdam
 past research fellow of statistics
 Department of Law and Economics, UnitelmaSapienza University of Rome
- education  phd in methodological statistics at La Sapienza University of Rome (2020) msc in statistics and decision sciences at La Sapienza University of Rome (2016) bsc in statistics at La Sapienza University of Rome (2013)  grants  research grant for junior researcher &amp;ldquo;Avvio alla ricerca&amp;rdquo; (2017) award in Italian Statistical Society (SIS) competition: best report (2017)  academic services  programme committee member of the conference &amp;ldquo;IES 2022: Innovation and Society 5.</description>
+ education  phd in methodological statistics at La Sapienza University of Rome (2020) msc in statistics and decision sciences at La Sapienza University of Rome (2016) bsc in statistics at La Sapienza University of Rome (2013)  grants  research grant for junior researcher &amp;ldquo;Avvio alla ricerca&amp;rdquo; (2017) award in Stats under the Stars (an Italian Statistical Society competition): best report (2017)  academic services  programme committee member of the conference &amp;ldquo;IES 2022: Innovation and Society 5.</description>
     </item>
     
     <item>
@@ -70,10 +70,8 @@ ongoing projects seminars and talks events teaching material </description>
       
       <guid>/ongoing_projects/</guid>
       <description>my current researches are:
-  Cavicchia, C., Vichi, M. and Zaccaria, G.
-Gaussian mixture model with an extended ultrametric covariance structure
-the maximum likelihood estimation of a Gaussian Mixture Model where the covariance structure is modeled according to an extended ultrametric covariance matrix, the model extends the concepts and definitions of ultrametric matrix in order to model generic covariance structure. (Submitted)
-  Cavicchia, C., Vichi, M. and Zaccaria, G.</description>
+  Cavicchia, C. and Vichi, M. \ Second-order Disjoint Factor Analysis
+a new latent factor model called Second-order Disjoint Factor Analysis in order to model an unknown hierarchical structure of the manifest variables with two orders. This is an second-order factor analysis, which - respect to the second-order confirmatory factor analysis - is exploratory, nested and estimated simultaneously by maximum likelihood method. A cyclic block coordinate descent algorithm is proposed to maximize the likelihood.</description>
     </item>
     
     <item>
@@ -112,7 +110,7 @@ The ultrametric correlation matrix for modelling hierarchical latent concepts</d
       <description>supervisions   I am currently supervising three msc theses on Data Science for Marketing Analytics at Erasmus School of Economics
   I am currently supervising three msc theses on Econometrics at Erasmus School of Economics
   I am currently supervising six bsc theses at Erasmus School of Economics on Adachi and Trendafilov (2018)
-  last year I supervised eight bsc theses at Erasmus School of Economics on Vichi and Kiers (2001) and Bluszcz (2016)</description>
+  I am currently supervising one master thesis within the II level master &amp;ldquo;Quantitative methods and models for decision support&amp;rdquo; at University of Rome UnitelmaSapienza</description>
     </item>
     
   </channel>

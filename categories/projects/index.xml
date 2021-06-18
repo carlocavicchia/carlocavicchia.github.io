@@ -17,10 +17,8 @@
       
       <guid>/ongoing_projects/</guid>
       <description>my current researches are:
-  Cavicchia, C., Vichi, M. and Zaccaria, G.
-Gaussian mixture model with an extended ultrametric covariance structure
-the maximum likelihood estimation of a Gaussian Mixture Model where the covariance structure is modeled according to an extended ultrametric covariance matrix, the model extends the concepts and definitions of ultrametric matrix in order to model generic covariance structure. (Submitted)
-  Cavicchia, C., Vichi, M. and Zaccaria, G.</description>
+  Cavicchia, C. and Vichi, M. \ Second-order Disjoint Factor Analysis
+a new latent factor model called Second-order Disjoint Factor Analysis in order to model an unknown hierarchical structure of the manifest variables with two orders. This is an second-order factor analysis, which - respect to the second-order confirmatory factor analysis - is exploratory, nested and estimated simultaneously by maximum likelihood method. A cyclic block coordinate descent algorithm is proposed to maximize the likelihood.</description>
     </item>
     
   </channel>
