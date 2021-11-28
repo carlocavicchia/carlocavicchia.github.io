@@ -18,9 +18,10 @@
       <guid>/ongoing_projects/</guid>
       <description>my current researches are:
   Cavicchia, C., Vichi, M. and Zaccaria, G.
-Gaussian mixture model with an extended ultrametric covariance structure
-the maximum likelihood estimation of a Gaussian Mixture Model where the covariance structure is modeled according to an extended ultrametric covariance matrix, the model extends the concepts and definitions of ultrametric matrix in order to model generic covariance structure. (Revision requested)
-  Cavicchia, C., Vichi, M. and Zaccaria, G.</description>
+Hierarchical Disjoint Principal Component Analysis
+a new methodology which extends the Disjoint Principal Component Analysis (DPCA) to find out about different grades of syntheses, from the lowest level of the hierarchy upwards, it is formulated in a semi-parametric least-squares framework. (Revision requested)
+  Cavicchia, C and Sarnacchiaro, P.
+A new ranking calculation based on a composite indicator model: the case of the top 20 European football teams</description>
     </item>
     
   </channel>
