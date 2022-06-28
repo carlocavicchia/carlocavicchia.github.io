@@ -20,7 +20,7 @@
 Econometric Institute, Erasmus School of Economics, Erasmus University Rotterdam
 past research fellow of statistics
 Department of Law and Economics, UnitelmaSapienza University of Rome
- education  dutch university teaching qualification (BKO) Risbo - Erasmus University Rotterdam (expected 2022) phd in methodological statistics at La Sapienza University of Rome (2020) msc in statistics and decision sciences at La Sapienza University of Rome (2016) bsc in statistics at La Sapienza University of Rome (2013)  awards and grants  research grant for junior researcher &amp;ldquo;Avvio alla ricerca&amp;rdquo; (2017) award in Stats under the Stars (an Italian Statistical Society competition): best report (2017) phd scholarishp (3 years) at La Sapienza University of Rome (2016)  academic services  programme committee member of the conference CLADAG 2023 (2023) session organizer and chair of the &amp;ldquo;CMStatistics 2022: 15th International Conference of the ERCIM WG on Computational and Methodological Statistics&amp;rdquo; (2022) session organizer and chair of the &amp;ldquo;ECDA 2022: European Conference on Data Analysis&amp;rdquo; (2022) co-editor of &amp;ldquo;Book of Short Papers of SIS 2022&amp;rdquo; (2022) national coordinator (2022) and member of the national board of young SIS (2021-2022) programme committee member of &amp;ldquo;SIS 2022: the 51st Scientific Meeting of the Italian Statistical Society&amp;rdquo; (2022) programme committee member of the conference &amp;ldquo;IES 2022: Innovation and Society 5.</description>
+ education  dutch university teaching qualification (BKO) Risbo - Erasmus University Rotterdam (2022) phd in methodological statistics at La Sapienza University of Rome (2020) msc in statistics and decision sciences at La Sapienza University of Rome (2016) bsc in statistics at La Sapienza University of Rome (2013)  awards and grants  research grant for junior researcher &amp;ldquo;Avvio alla ricerca&amp;rdquo; (2017) award in Stats under the Stars (an Italian Statistical Society competition): best report (2017) phd scholarishp (3 years) at La Sapienza University of Rome (2016)  academic services  programme committee member of the conference CLADAG 2023 (2023) session organizer and chair of the &amp;ldquo;CMStatistics 2022: 15th International Conference of the ERCIM WG on Computational and Methodological Statistics&amp;rdquo; (2022) session organizer of the &amp;ldquo;ECDA 2022: European Conference on Data Analysis&amp;rdquo; (2022) programme committee member of the hackhaton &amp;ldquo;HackTheGene&amp;rdquo; (2022) national coordinator (2022) and member of the national board of young SIS (2021-2022) programme committee member of &amp;ldquo;SIS 2022: the 51st Scientific Meeting of the Italian Statistical Society&amp;rdquo; (2022) programme committee member of the conference &amp;ldquo;IES 2022: Innovation and Society 5.</description>
     </item>
     
     <item>
@@ -72,11 +72,9 @@ ongoing projects seminars and talks events teaching material </description>
       <description>my current research consists of:
   Hierarchical Means Clustering (Vichi, M., Cavicchia, C. and Groenen, P.J.F.)
 Revision requested
-  Hierarchical Disjoint Principal Component Analysis (Cavicchia, C., Vichi, M. and Zaccaria, G.)
-Revision requested
   A new ranking calculation based on a composite indicator model: the case of the top 20 European football teams (Cavicchia, C. and Sarnacchiaro, P.)
 Revision requested
-  A model-based ultrametric composite indicator for studying waste management in Italian municipalities (Cavicchia, C.</description>
+  A model-based ultrametric composite indicator for studying waste management in Italian municipalities (Cavicchia, C., Sarnacchiaro, P., Vichi, M. and Zaccaria, G.)</description>
     </item>
     
     <item>
@@ -85,11 +83,12 @@ Revision requested
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>refereed journal articles   Cavicchia, C., Vichi, M. and Zaccaria, G.
+      <description>refereed journal articles   Cavicchia, C., Vichi, M. and Zaccaria, G. \ Hierarchical Disjoint Principal Component Analysis
+Advances in Statistical Analysis, Accepted (2022)
+  Cavicchia, C., Vichi, M. and Zaccaria, G.
 Gaussian mixture model with an extended ultrametric covariance structure
-Advances in Data Analysis and Classification, (2022)
-  De Rosa, E., Montuori, P., Sarnacchiaro, P., Di Duca, F., Giovinetti, M. C., Provvisiero, D. P., Cavicchia, C. and Triassi, M.
-Spatiotemporal estimation of heavy metals Pollution in the Mediterranean Sea from Volturno River, Southern Italy: Distribution, Risk Assessment and Loads</description>
+Advances in Data Analysis and Classification, 16(2), pp.399–427 (2022)
+  De Rosa, E., Montuori, P., Sarnacchiaro, P., Di Duca, F., Giovinetti, M. C., Provvisiero, D. P., Cavicchia, C.</description>
     </item>
     
     <item>
@@ -98,9 +97,9 @@ Spatiotemporal estimation of heavy metals Pollution in the Mediterranean Sea fro
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/talks_and_seminars/</guid>
-      <description>seminars and invited talks   A general framework for implementing distance measures for categorical variables - IFCS 2022: 17th conference of the International Federation of Classification Societies (2022 - Porto, Portugal)
-  Introduction to Statistics - Series of seminars within the Hospitality Management bsc degree course of Federico II University of Naples (2022 - Virtual)
-  Cost and performance: a composite indicator for separated waste collection in Italy - ISI 2021: International Statistical Institute World Statistics Congress &amp;ldquo;Statistics and Data Science for a Better World&amp;rdquo; (2021 - Virtual)</description>
+      <description>seminars and invited talks   A composite indicator for circular economy performance - ISI 2023: International Statistical Institute World Statistics Congress (2023 - Ottawa, Canada)
+  Mixed Data Convex Clustering - CMStatistics 2022: 15th International Conference of the ERCIM WG on Computational and Methodological Statistics (2022 - London, UK - Virtual)
+  A general framework for implementing distance measures for categorical variables - IFCS 2022: 17th conference of the International Federation of Classification Societies (2022 - Porto, Portugal)</description>
     </item>
     
     <item>
