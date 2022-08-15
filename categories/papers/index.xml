@@ -17,11 +17,11 @@
       
       <guid>/ongoing_projects/</guid>
       <description>my current research consists of:
-  Hierarchical Means Clustering (Vichi, M., Cavicchia, C. and Groenen, P.J.F.)
-Revision requested
   A new ranking calculation based on a composite indicator model: the case of the top 20 European football teams (Cavicchia, C. and Sarnacchiaro, P.)
 Revision requested
-  A model-based ultrametric composite indicator for studying waste management in Italian municipalities (Cavicchia, C., Sarnacchiaro, P., Vichi, M. and Zaccaria, G.)</description>
+  A model-based ultrametric composite indicator for studying waste management in Italian municipalities (Cavicchia, C., Sarnacchiaro, P., Vichi, M. and Zaccaria, G.)
+Revision requested
+  Convex Clustering of Mixed Numerical and Categorical Data (Brink, T., Cavicchia, C.</description>
     </item>
     
     <item>
@@ -30,13 +30,16 @@ Revision requested
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>refereed journal articles   Cavicchia, C., Vichi, M. and Zaccaria, G.
+      <description>refereed journal articles   Vichi, M., Cavicchia, C. and Groenen, P.J.F.
+Hierarchical Means Clustering
+Journal of Classification, Accepted (2022+)
+  Cavicchia, C., Vichi, M. and Zaccaria, G.
 Hierarchical Disjoint Principal Component Analysis
 Advances in Statistical Analysis, Accepted (2022+)
   Cavicchia, C., Vichi, M. and Zaccaria, G.
 Gaussian mixture model with an extended ultrametric covariance structure
 Advances in Data Analysis and Classification, 16(2), pp.399–427 (2022)
-  De Rosa, E., Montuori, P., Sarnacchiaro, P., Di Duca, F., Giovinetti, M. C., Provvisiero, D. P., Cavicchia, C. and Triassi, M.</description>
+  De Rosa, E.</description>
     </item>
     
   </channel>

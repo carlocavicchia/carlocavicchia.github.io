@@ -20,7 +20,7 @@
 Econometric Institute, Erasmus School of Economics, Erasmus University Rotterdam
 past research fellow of statistics
 Department of Law and Economics, UnitelmaSapienza University of Rome
- education  dutch university teaching qualification (BKO) Risbo - Erasmus University Rotterdam (2022) phd in methodological statistics at La Sapienza University of Rome (2020) msc in statistics and decision sciences at La Sapienza University of Rome (2016) bsc in statistics at La Sapienza University of Rome (2013)  awards and grants  research grant for junior researcher &amp;ldquo;Avvio alla ricerca&amp;rdquo; (2017) award in Stats under the Stars (an Italian Statistical Society competition): best report (2017) phd scholarishp (3 years) at La Sapienza University of Rome (2016)  academic services  programme committee member of the conference CLADAG 2023 (2023) session organizer and chair of the &amp;ldquo;CMStatistics 2022: 15th International Conference of the ERCIM WG on Computational and Methodological Statistics&amp;rdquo; (2022) session organizer of the &amp;ldquo;ECDA 2022: European Conference on Data Analysis&amp;rdquo; (2022) programme committee member of the hackhaton &amp;ldquo;HackTheGene&amp;rdquo; (2022) national coordinator (2022) and member of the national board of young SIS (2021-2022) programme committee member of &amp;ldquo;SIS 2022: the 51st Scientific Meeting of the Italian Statistical Society&amp;rdquo; (2022) programme committee member of the conference &amp;ldquo;IES 2022: Innovation and Society 5.</description>
+ education  dutch university teaching qualification (BKO) Risbo - Erasmus University Rotterdam (2022) phd in methodological statistics at La Sapienza University of Rome (2020) msc in statistics and decision sciences at La Sapienza University of Rome (2016) bsc in statistics at La Sapienza University of Rome (2013)  awards and grants  research grant for junior researcher &amp;ldquo;Avvio alla ricerca&amp;rdquo; (2017) award in Stats under the Stars (an Italian Statistical Society competition): best report (2017) phd scholarishp (3 years) at La Sapienza University of Rome (2016)  academic services  programme committee member of the conference CLADAG 2023 (2023) session organizer and chair of the &amp;ldquo;CMStatistics 2022: 15th International Conference of the ERCIM WG on Computational and Methodological Statistics&amp;rdquo; (2022) session organizer of the &amp;ldquo;ECDA 2022: European Conference on Data Analysis&amp;rdquo; (2022) programme committee member of the hackhaton &amp;ldquo;HackTheGene&amp;rdquo; (2022) committee member of the prize &amp;ldquo;Premio TStat Training&amp;rdquo; (2022) national coordinator (2022) and member of the national board of young SIS (2021-2022) programme committee member of &amp;ldquo;SIS 2022: the 51st Scientific Meeting of the Italian Statistical Society&amp;rdquo; (2022) programme committee member of the conference &amp;ldquo;IES 2022: Innovation and Society 5.</description>
     </item>
     
     <item>
@@ -70,11 +70,11 @@ ongoing projects seminars and talks events teaching material </description>
       
       <guid>/ongoing_projects/</guid>
       <description>my current research consists of:
-  Hierarchical Means Clustering (Vichi, M., Cavicchia, C. and Groenen, P.J.F.)
-Revision requested
   A new ranking calculation based on a composite indicator model: the case of the top 20 European football teams (Cavicchia, C. and Sarnacchiaro, P.)
 Revision requested
-  A model-based ultrametric composite indicator for studying waste management in Italian municipalities (Cavicchia, C., Sarnacchiaro, P., Vichi, M. and Zaccaria, G.)</description>
+  A model-based ultrametric composite indicator for studying waste management in Italian municipalities (Cavicchia, C., Sarnacchiaro, P., Vichi, M. and Zaccaria, G.)
+Revision requested
+  Convex Clustering of Mixed Numerical and Categorical Data (Brink, T., Cavicchia, C.</description>
     </item>
     
     <item>
@@ -83,13 +83,16 @@ Revision requested
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>refereed journal articles   Cavicchia, C., Vichi, M. and Zaccaria, G.
+      <description>refereed journal articles   Vichi, M., Cavicchia, C. and Groenen, P.J.F.
+Hierarchical Means Clustering
+Journal of Classification, Accepted (2022+)
+  Cavicchia, C., Vichi, M. and Zaccaria, G.
 Hierarchical Disjoint Principal Component Analysis
 Advances in Statistical Analysis, Accepted (2022+)
   Cavicchia, C., Vichi, M. and Zaccaria, G.
 Gaussian mixture model with an extended ultrametric covariance structure
 Advances in Data Analysis and Classification, 16(2), pp.399–427 (2022)
-  De Rosa, E., Montuori, P., Sarnacchiaro, P., Di Duca, F., Giovinetti, M. C., Provvisiero, D. P., Cavicchia, C. and Triassi, M.</description>
+  De Rosa, E.</description>
     </item>
     
     <item>
@@ -111,7 +114,7 @@ Advances in Data Analysis and Classification, 16(2), pp.399–427 (2022)
       <guid>/teaching_material/</guid>
       <description>supervisions   I am currently supervising five msc theses in Econometrics and three msc theses in Data Science for Marketing Analytics at Erasmus School of Economics
   this year I am second assessor of three msc theses in Econometrics, three msc theses in Data Science for Marketing Analytics and five bsc theses in Econometrics at Erasmus School of Economics
-  in the past few years I supervised three msc theses in Econometrics (on mixed-type data clustering methods and latent dirichlet allocation), three msc theses in Data Science for Marketing Analytics (on supervised machine learning methods), and eighteen bsc theses in Econometrics (on Cavicchia, Vichi and Zaccaria (2022), Adachi and Trendafilov (2018), Vichi and Kiers (2001) and Bluszcz (2016)) at Erasmus School of Economics</description>
+  in the past few years I supervised three msc theses in Econometrics (on mixed-type data clustering methods and latent dirichlet allocation), three msc theses in Data Science for Marketing Analytics (on supervised machine learning methods), and nineteen bsc theses in Econometrics (on Cavicchia, Vichi and Zaccaria (2022), Adachi and Trendafilov (2018), Vichi and Kiers (2001) and Bluszcz (2016)) at Erasmus School of Economics</description>
     </item>
     
   </channel>
