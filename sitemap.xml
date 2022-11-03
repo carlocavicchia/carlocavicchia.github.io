@@ -31,6 +31,14 @@
   </url>
   
   <url>
+    <loc>/tags/code/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/code/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/codes/</loc>
   </url>
   
@@ -192,6 +200,18 @@
   
   <url>
     <loc>/talks_and_seminars/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/software/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/software/</loc>
+  </url>
+  
+  <url>
+    <loc>/software/</loc>
   </url>
   
   <url>

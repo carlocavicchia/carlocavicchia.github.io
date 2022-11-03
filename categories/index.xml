@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>code</title>
+      <link>/categories/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>codes</title>
       <link>/categories/codes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -178,6 +187,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/categories/seminars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>/categories/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/software/</guid>
       <description></description>
     </item>
     
