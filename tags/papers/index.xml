@@ -17,11 +17,9 @@
       
       <guid>/ongoing_projects/</guid>
       <description>my current research consists of:
-  A new ranking calculation based on a composite indicator model: the case of the top 20 European football teams (Cavicchia, C. and Sarnacchiaro, P.)
-Revision requested
-  A model-based ultrametric composite indicator for studying waste management in Italian municipalities (Cavicchia, C., Sarnacchiaro, P., Vichi, M. and Zaccaria, G.)
-Revision requested
-  A general framework for implementing distance functions for categorical variables (van de Velden, M.</description>
+  A general framework for implementing distance functions for categorical variables (van de Velden, M., Iodice D&amp;rsquo;Enza, A., Markos, A. and Cavicchia, C.) - Under review, arXiv
+  A new ranking calculation based on a composite indicator model: the case of the top 20 European football teams (Cavicchia, C. and Sarnacchiaro, P.) - Under review
+  Convex Clustering of Mixed Numerical and Categorical Data (Brink, T.</description>
     </item>
     
     <item>
@@ -30,16 +28,16 @@ Revision requested
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>refereed journal articles   Vichi, M., Cavicchia, C. and Groenen, P.J.F.
+      <description>refereed journal articles   Cavicchia, C., Sarnacchiaro, P., Vichi, M. and Zaccaria, G.
+A model-based ultrametric composite indicator for studying waste management in Italian municipalities
+Computational Statistics, (2023, forthcoming)
+  Vichi, M., Cavicchia, C. and Groenen, P.J.F.
 Hierarchical Means Clustering
-Journal of Classification, (2022)
+Journal of Classification, 39(3), pp.553–577 (2022)
   Cavicchia, C., Vichi, M. and Zaccaria, G.
 Hierarchical Disjoint Principal Component Analysis
 AStA Advances in Statistical Analysis, (2022)
-  Cavicchia, C., Vichi, M. and Zaccaria, G.
-Gaussian mixture model with an extended ultrametric covariance structure
-Advances in Data Analysis and Classification, 16(2), pp.399–427 (2022)
-  De Rosa, E.</description>
+  Cavicchia, C.</description>
     </item>
     
   </channel>
