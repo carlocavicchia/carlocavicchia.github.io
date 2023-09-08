@@ -99,9 +99,9 @@ AStA Advances in Statistical Analysis, (2022)
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/talks_and_seminars/</guid>
-      <description>seminars and invited talks   Ultrametric Gaussian Mixture models with parsimonious structures - ISI 2023: International Statistical Institute World Statistics Congress (2023 - Ottawa, Canada)
-  A composite indicator for circular economy performance - ISI 2023: International Statistical Institute World Statistics Congress (2023 - Ottawa, Canada)
-  Convex Clustering of Mixed Numerical and Categorical Data - DSSV-ECDA 2023: Joint conference of Data Science, Statistics &amp;amp; Visualisation and the European Conference on Data Analysis (2023 - Antwerp, Belgium)</description>
+      <description>seminars and invited talks   Convex Clustering of Mixed Numerical and Categorical Data - Workshop on &amp;ldquo;Statistical Computing and Robust Inference for High Dimensional Data&amp;rdquo; (2023 - Taipei, Taiwan)
+  Ultrametric Gaussian Mixture models with parsimonious structures - ISI 2023: International Statistical Institute World Statistics Congress (2023 - Ottawa, Canada)
+  A composite indicator for circular economy performance - ISI 2023: International Statistical Institute World Statistics Congress (2023 - Ottawa, Canada)</description>
     </item>
     
     <item>
@@ -110,8 +110,8 @@ AStA Advances in Statistical Analysis, (2022)
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/software/</guid>
-      <description>I am the author and contributor of the following R package:
- catdist  </description>
+      <description>I am the author and contributor of the following R packages:
+ catdist PUGMM  </description>
     </item>
     
     <item>
