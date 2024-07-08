@@ -215,6 +215,10 @@
   </url>
   
   <url>
+    <loc>/supervisions_and_teaching/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
   
@@ -232,10 +236,6 @@
   
   <url>
     <loc>/categories/teaching/</loc>
-  </url>
-  
-  <url>
-    <loc>/teaching/</loc>
   </url>
   
 </urlset>
