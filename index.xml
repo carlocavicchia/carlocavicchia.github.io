@@ -86,7 +86,7 @@ ongoing projects software seminars and talks events supervisions and teaching </
       <guid>/publications/</guid>
       <description>refereed journal articles   Willemsen, R., Cavicchia, C., van den Heuvel, W. and van de Velden, M.
 An Exact Solution Approach for Hierarchical Clustering
-INFORMS Journal on Computing, (2025),
+INFORMS Journal on Computing, (2025)
   Bottazzi Schenone, M., Cavicchia, C., Vichi, M. and Zaccaria, G.
 Ultrametric Factor Analysis for building hierarchies of reliable and unidimensional latent concepts
 Psychometrika, (2025)
@@ -120,7 +120,8 @@ Psychometrika, (2025)
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/supervisions_and_teaching/</guid>
-      <description>supervisions   I am currently co-supervising - together with Olga Kuryatnikova and Wilco van den Heuvel - the PhD project of Marten Soer. The project lies at the intersection of Statistics and Operations Research, and the main focus directions will be reducing computational time by exploiting the structure of problems (e.g., sparsity ) and applying advanced optimization techniques (enhanced gradient descent, integer programming algorithms tailored to a specific problem); increasing the applicability of models to noisy and unseen data by using robust and stochastic optimization; and, allowing constraints on model parameters.</description>
+      <description>supervisions   I am currently co-supervising - together with Olga Kuryatnikova and Wilco van den Heuvel - the PhD project of Marten Soer. The project sits at the intersection of Statistics and Operations Research, focusing on reducing computation via structural insights, applying advanced optimization methods, improving robustness to noise and unseen data, and enabling parameter constraints
+  I am currently co-supervising - together with Pasquale Sarnacchiaro - the PhD project of Irene Ariante.</description>
     </item>
     
   </channel>
