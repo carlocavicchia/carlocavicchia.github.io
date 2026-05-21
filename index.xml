@@ -22,7 +22,7 @@ past   assistant professor (universitair docent 2, UD2) of statistics
 Econometric Institute, Erasmus School of Economics, Erasmus University Rotterdam
   research fellow of statistics
 Department of Law and Economics, UnitelmaSapienza University of Rome
-   education  masterclass supervising phd research Erasmus University Rotterdam (2024) dutch university teaching qualification (BKO) Risbo - Erasmus University Rotterdam (2022) phd in methodological statistics at La Sapienza University of Rome (2020) msc in statistics and decision sciences at La Sapienza University of Rome (2016) bsc in statistics at La Sapienza University of Rome (2013)  qualifications  National Qualification for Associate Professor (Italy, ASN II fascia), Statistics (SC 13/D1, June-2023)  awards and grants  IFCS Chikio Hayashi award (USD 1,000.</description>
+   education  masterclass supervising phd research Erasmus University Rotterdam (2024) dutch university teaching qualification (BKO) Risbo - Erasmus University Rotterdam (2022) phd in methodological statistics at La Sapienza University of Rome (2020) msc in statistics and decision sciences at La Sapienza University of Rome (2016) bsc in statistics at La Sapienza University of Rome (2013)  qualifications  National Qualification for Associate Professor (Italy, ASN II fascia), Statistics (SC 13/D1, June-2023)  awards and grants  NWO SSH Open Competition XS (EUR 49838.</description>
     </item>
     
     <item>
@@ -72,10 +72,9 @@ ongoing projects software seminars and talks events supervisions and teaching </
       
       <guid>/ongoing_projects/</guid>
       <description>my current research consists of:
-  Unbiased mixed-variable distance (van de Velden, M., Iodice D&amp;rsquo;Enza, A., Markos, A. and Cavicchia, C.) - Under review - arXiv - SSRN
-  Convex Clustering of Mixed Numerical and Categorical Data (Brink, T. and Cavicchia, C.)
-  Sparse Scaling (Groenen, P.J.F. and Cavicchia, C.)
-  Exact solutions for the Sparse Clustering Problem (Soer, M., Cavicchia, C., Kuryatnikova, O. and van den Heuvel, W.</description>
+  Diagnosing Persistent Default Risk: A Configurational Approach to Financial Misalignment (Ariante, I., Sarnacchiaro, P. and Cavicchia, C.) - Under review
+  Measuring What Matters in the Sharing Economy: A Multivariate Perspective on the Sharing Economy Index (SEI) (Maričić, M., Uskoković, V., Drinjak, N., Panzaru, E., Jeremić V. and Cavicchia, C.) - Under review
+  Convex Clustering of Mixed Numerical and Categorical Data (Brink, T.</description>
     </item>
     
     <item>
@@ -84,13 +83,14 @@ ongoing projects software seminars and talks events supervisions and teaching </
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>refereed journal articles   Willemsen, R., Cavicchia, C., van den Heuvel, W. and van de Velden, M.
+      <description>refereed journal articles   van de Velden, M., Iodice D&amp;rsquo;Enza, A., Markos, A. and Cavicchia, C.
+Unbiased mixed-variable distance
+Journal of Computational and Graphical Statistics, (2026, forthcoming)
+  Willemsen, R., Cavicchia, C., van den Heuvel, W. and van de Velden, M.
 An Exact Solution Approach for Hierarchical Clustering
-INFORMS Journal on Computing, (2025)
+INFORMS Journal on Computing, 38(2), pp.447-462 (2026)
   Bottazzi Schenone, M., Cavicchia, C., Vichi, M. and Zaccaria, G.
-Ultrametric Factor Analysis for building hierarchies of reliable and unidimensional latent concepts
-Psychometrika, 90(2), pp.779–798 (2025)
-  van de Velden, M., Iodice D&amp;rsquo;Enza, A., Markos, A. and Cavicchia, C.</description>
+Ultrametric Factor Analysis for building hierarchies of reliable and unidimensional latent concepts</description>
     </item>
     
     <item>
@@ -99,9 +99,9 @@ Psychometrika, 90(2), pp.779–798 (2025)
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/talks_and_seminars/</guid>
-      <description>seminars and invited talks   Distances for mixed data: issues, solutions and a new KNN approach - Seminar at Federico II University of Naples, Dipartimento di Science Economiche e Statistiche (2024 - Naples, Italy)
-  Nearest neighbors for mixed type data: an inter-dependency based approach - IFCS 2024: 18th conference of the International Federation of Classification Societies (2024 - San Jose, Costa Rica)
-  Convex Clustering of Mixed Numerical and Categorical Data - SIS 2024: The 52nd Scientific Meeting of the Italian Statistical Society (2024 - Bari, Italy)</description>
+      <description>seminars and invited talks   A Supervised Distance Metric for K-Nearest Neighbors with Mixed-Type Data - IFCS 2026: 19th conference of the International Federation of Classification Societies (2026 - Milan, Italy)
+  Clustering Beyond Algorithms: Structure, Models, and Optimization - Seminar at Federico II University of Naples, Dipartimento di Economia, Management e Istituzioni (2026 - Naples, Italy)
+  Ultrametric latent variable models: a new approach for composite indicators&amp;rsquo; construction - ISI 2025: International Statistical Institute World Statistics Congress (2025 - The Hague, Netherlands)</description>
     </item>
     
     <item>
@@ -120,8 +120,8 @@ Psychometrika, 90(2), pp.779–798 (2025)
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/supervisions_and_teaching/</guid>
-      <description>supervisions   I am currently co-supervising - together with Olga Kuryatnikova and Patrick J.F. Groenen - the research internship of Leon Czarnecki within his Business Data Science research MSc. The internship focuses on investigating the applicability of alternating direction method of multipliers (admm) for statistical and data science problems
-  I am currently supervising the BSc Honours Research Class internship of Alexia Chirita. The project focuses on the potential application of a model-based approach to hierarchical clustering</description>
+      <description>supervisions   from september, I will be supervising - together with Olga Kuryatnikova and Patrick J.F. Groenen - the PhD project of Leon Czarnecki
+  I am currently co-supervising - together with Olga Kuryatnikova and Patrick J.F. Groenen - the research internship of Leon Czarnecki within his Business Data Science research MSc. The internship focuses on investigating the applicability of alternating direction method of multipliers (admm) for statistical and data science problems</description>
     </item>
     
   </channel>
